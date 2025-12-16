@@ -1,4 +1,4 @@
-# 7. Git. Maven
+# 7. Git. Maven еуие
 
 ## 'List Users' Application
 
